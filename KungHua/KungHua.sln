@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KungHua.WeChat", "KungHua.WeChat\KungHua.WeChat.csproj", "{E865BB24-3ADD-4A58-8423-24F0A46EA9A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KungHua.DHT", "KungHua.DHT\KungHua.DHT.csproj", "{6A36EE00-08DB-4D0B-9909-C8C0D53DE6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KungHua.BT.BenCode", "KungHua.BT.BenCode\KungHua.BT.BenCode.csproj", "{F3C633D9-F989-4744-B5C3-39935A0C80A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E865BB24-3ADD-4A58-8423-24F0A46EA9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E865BB24-3ADD-4A58-8423-24F0A46EA9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E865BB24-3ADD-4A58-8423-24F0A46EA9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A36EE00-08DB-4D0B-9909-C8C0D53DE6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A36EE00-08DB-4D0B-9909-C8C0D53DE6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A36EE00-08DB-4D0B-9909-C8C0D53DE6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A36EE00-08DB-4D0B-9909-C8C0D53DE6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C633D9-F989-4744-B5C3-39935A0C80A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C633D9-F989-4744-B5C3-39935A0C80A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C633D9-F989-4744-B5C3-39935A0C80A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C633D9-F989-4744-B5C3-39935A0C80A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
